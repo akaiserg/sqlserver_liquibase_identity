@@ -1,0 +1,4 @@
+liquibase update
+liquibase  rollbackCount 1
+liquibase  rollbackCount 1
+liquibase update
